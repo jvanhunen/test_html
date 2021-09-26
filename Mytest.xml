@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?latexml searchpaths="/Users/dgl6jv1/Google Drive/Software/LaTeXML/test_LaTexML_on_Ultra"?>
+<?latexml class="book" options="openany"?>
+<?latexml RelaxNGSchema="LaTeXML"?>
+<document xmlns="http://dlmf.nist.gov/LaTeXML">
+  <resource src="LaTeXML.css" type="text/css"/>
+  <resource src="ltx-book.css" type="text/css"/>
+  <para xml:id="p1">
+    <p><Math mode="inline" tex="\rho=1750" text="rho = 1750" xml:id="p1.m1">
+        <XMath>
+          <XMApp>
+            <XMTok meaning="equals" role="RELOP">=</XMTok>
+            <XMTok font="italic" name="rho" role="UNKNOWN">ρ</XMTok>
+            <XMTok meaning="1750" role="NUMBER">1750</XMTok>
+          </XMApp>
+        </XMath>
+      </Math> <Math mode="inline" tex="\mathrm{kgm^{-3}}" text="kgm ^ (- 3)" xml:id="p1.m2">
+        <XMath>
+          <XMApp>
+            <XMTok role="SUPERSCRIPTOP" scriptpos="post2"/>
+            <XMTok role="UNKNOWN">kgm</XMTok>
+            <XMApp>
+              <XMTok fontsize="70%" meaning="minus" role="ADDOP">-</XMTok>
+              <XMTok fontsize="70%" meaning="3" role="NUMBER">3</XMTok>
+            </XMApp>
+          </XMApp>
+        </XMath>
+      </Math></p>
+  </para>
+</document>
